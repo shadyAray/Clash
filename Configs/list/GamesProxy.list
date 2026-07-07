@@ -1,0 +1,11 @@
+#该列表包含常用需加速的游戏平台以及下载域名
+
+# Nintendo
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendowifi.net
+DOMAIN-SUFFIX,nintendo.co.jp
+
+# PlayStation
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com

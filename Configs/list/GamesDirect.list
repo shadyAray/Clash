@@ -1,26 +1,29 @@
 #游戏平台直连域名
-#Steam
+
+# Steam
 DOMAIN-SUFFIX,steamserver.net
-#steam阿里云cdn
+
+# Steam阿里云CDN
 DOMAIN,cdn-ali.content.steamchina.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN,lv.queniujq.cn
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 
-
-#Xbox大陆下载域名
+# Xbox大陆下载域名
 DOMAIN,assets1.xboxlive.cn
 DOMAIN,assets2.xboxlive.cn
 DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
 DOMAIN-SUFFIX,xboxlive.com
-DOMAIN,dl.deliverry.mp.microsoft.com
+DOMAIN,dl.delivery.mp.microsoft.com
 DOMAIN,tlu.dl.delivery.mp.microsoft.com
 
-#Uplay
-PROCESS-NAME,upc.exe
-PROCESS-NAME,UplayWebCore.exe
+# Ubisoft
 DOMAIN-SUFFIX,ubisoft.com
 DOMAIN-SUFFIX,ubi.com
-#下载
+
+# 育碧下载
 DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
+
+# PlayStation 下载
+DOMAIN-SUFFIX,playstation.net
