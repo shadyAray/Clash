@@ -1,4 +1,21 @@
-#游戏平台直连域名
+# 游戏平台直连域名
+
+# Epic
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,epicgamescdn.com
+DOMAIN-SUFFIX,epicgames.dev
+DOMAIN-SUFFIX,unrealengine.com
+DOMAIN-SUFFIX,easyanticheat.net
+
+# Epic CDN 下载域名
+DOMAIN,download.epicgames.com
+DOMAIN,cdn1.epicgames.com
+DOMAIN,cdn2.epicgames.com
+DOMAIN,cdn3.epicgames.com
+DOMAIN,cdn4.epicgames.com
+DOMAIN,cdn5.epicgames.com
+DOMAIN,epicgames-download1.akamaized.net
+DOMAIN,launcher-public-service-prod06.ol.epicgames.com
 
 # Steam
 DOMAIN-SUFFIX,steamserver.net
