@@ -44,6 +44,9 @@ DOMAIN-SUFFIX,nintendo.com.au
 DOMAIN-SUFFIX,nintendo.com.br
 DOMAIN-SUFFIX,nintendo.co.uk
 
-# PlayStation
+# PlayStation 索尼相关线上服务
 DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com

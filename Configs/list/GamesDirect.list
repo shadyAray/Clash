@@ -61,4 +61,5 @@ DOMAIN-SUFFIX,ubi.com
 DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
 
 # PlayStation 下载
-DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,dl.playstation.net
+DOMAIN-KEYWORD,g01.c01.dl.playstation.net
