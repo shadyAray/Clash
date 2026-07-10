@@ -1,0 +1,21 @@
+# 该分流表包含常用BT客户端分流，防止下载偷跑流量
+
+# Linux平台
+PROCESS-NAME,qbittorrent-ee-nox
+PROCESS-NAME,qbittorrent-ee
+PROCESS-NAME,qbittorrent
+PROCESS-NAME,qbittorrent-nox
+PROCESS-NAME,transmission-dae
+PROCESS-NAME,transmission-qt
+PROCESS-NAME,aria2c
+PROCESS-NAME,Thunder
+
+# Windows平台
+PROCESS-NAME,qbittorrent-ee-nox.exe
+PROCESS-NAME,qbittorrent-ee.exe
+PROCESS-NAME,qbittorrent.exe
+PROCESS-NAME,qbittorrent-nox.exe
+PROCESS-NAME,transmission-dae.exe
+PROCESS-NAME,transmission-qt.exe
+PROCESS-NAME,aria2c.exe
+PROCESS-NAME,Thunder.exe
