@@ -9,6 +9,7 @@ PROCESS-NAME,transmission-dae
 PROCESS-NAME,transmission-qt
 PROCESS-NAME,aria2c
 PROCESS-NAME,Thunder
+#PROCESS-NAME,DownloadSDKServer.exe
 
 # Windows平台
 PROCESS-NAME,qbittorrent-ee-nox.exe
@@ -19,3 +20,4 @@ PROCESS-NAME,transmission-dae.exe
 PROCESS-NAME,transmission-qt.exe
 PROCESS-NAME,aria2c.exe
 PROCESS-NAME,Thunder.exe
+PROCESS-NAME,DownloadSDKServer.exe
