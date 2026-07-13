@@ -32,3 +32,4 @@ DOMAIN-SUFFIX,swdist.apple.com.akadns.net
 DOMAIN-SUFFIX,swscan-cdn.apple.com.akadns.net
 DOMAIN-SUFFIX,valid.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,phobos.apple.com
+DOMAIN-SUFFIX,push.apple.com
