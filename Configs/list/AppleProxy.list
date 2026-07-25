@@ -1,2 +1,3 @@
 # 苹果需代理服务(包含境外推送)
 DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,icloud.com

@@ -50,3 +50,7 @@ DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+
+# Battle.net (战网)
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,battle.net
