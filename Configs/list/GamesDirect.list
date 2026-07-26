@@ -36,7 +36,6 @@ DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamusercontent.com
 
 # Steam阿里云CDN
 DOMAIN,cdn-ali.content.steamchina.com
