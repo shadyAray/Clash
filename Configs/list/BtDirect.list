@@ -21,3 +21,6 @@ PROCESS-NAME,transmission-qt.exe
 PROCESS-NAME,aria2c.exe
 PROCESS-NAME,Thunder.exe
 PROCESS-NAME,DownloadSDKServer.exe
+
+# 四川大学自考网站
+DOMAIN-SUFFIX,51100.net
