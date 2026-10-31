@@ -1,6 +1,6 @@
 # 🤖 全球主流国外AI服务分流规则集
 
-# 🟢ChatGPT
+# ChatGPT
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
@@ -8,36 +8,36 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openrot.com
 DOMAIN-KEYWORD,openai
 
-# 🔵Google Gemini
+# Google Gemini
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-KEYWORD,gemini
 
-# 🟣Claude
+# Claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-KEYWORD,claude
 
-# 🔴Copilot
+# Copilot
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com/chat
 DOMAIN-SUFFIX,edgeservices.bing.com
 
-# 🟡Perplexity
+# Perplexity
 DOMAIN-SUFFIX,perplexity.ai
 
-# 🟠Midjourney
+# Midjourney
 DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,midjourney.desc
 
-# 🟤Groq
+# Groq
 DOMAIN-SUFFIX,groq.com
 
-# ⚪DeepL
+# DeepL
 DOMAIN-SUFFIX,deepl.com
 
-# 🏴‍☠️Grok
+# Grok
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
