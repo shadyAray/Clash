@@ -63,5 +63,6 @@ DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
 DOMAIN-SUFFIX,dl.playstation.net
 DOMAIN-KEYWORD,g01.c01.dl.playstation.net
 
-# 任天堂Nintendo
+# 任天堂Nintendo 下载
 DOMAIN-SUFFIX,nintendo.net
+DOMAIN,atum-5a8.hac.lp1.d4c.nintendo.net
