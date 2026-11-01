@@ -43,12 +43,17 @@ DOMAIN,xz.pphimalayanrt.com
 DOMAIN,lv.queniujq.cn
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 
-# Xbox大陆下载域名
+# Xbox 大陆下载域名
 DOMAIN,assets1.xboxlive.cn
 DOMAIN,assets2.xboxlive.cn
+DOMAIN,d1.xboxlive.cn
+DOMAIN,d2.xboxlive.cn
+DOMAIN,dlassets.xboxlive.cn
+DOMAIN,dlassets2.xboxlive.cn
 DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
 DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,delivery.mp.microsoft.com
 DOMAIN,dl.delivery.mp.microsoft.com
 DOMAIN,tlu.dl.delivery.mp.microsoft.com
 
