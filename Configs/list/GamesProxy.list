@@ -54,3 +54,6 @@ DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 # Battle.net (战网)
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,battle.net
+
+# Xbox
+DOMAIN,store-images.s-microsoft.com
