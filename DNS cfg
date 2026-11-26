@@ -23,15 +23,12 @@ const DNS_CONFIG = `dns:
         geosite:
           - gfw
       nameserver-policy:
-        # Steam \u76F4\u8FDE
         "+.steamserver.net":
           - 119.29.29.29
           - 223.5.5.5
-        # Xbox \u76F4\u8FDE
         "+.delivery.mp.microsoft.com":
           - 119.29.29.29
           - 223.5.5.5
-        # PlayStation \u76F4\u8FDE
         "+.dl.playstation.net":
           - 119.29.29.29
           - 223.5.5.5
