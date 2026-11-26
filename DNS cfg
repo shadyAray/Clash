@@ -1,4 +1,4 @@
-    `dns:
+const DNS_CONFIG = `dns:
       enable: true
       ipv6: false
       enhanced-mode: fake-ip
@@ -23,13 +23,29 @@
         geosite:
           - gfw
       nameserver-policy:
+        # Steam \u76F4\u8FDE
         "+.steamserver.net":
           - 119.29.29.29
           - 223.5.5.5
-        "geosite:cn":
+        # Xbox \u76F4\u8FDE
+        "+.delivery.mp.microsoft.com":
+          - 119.29.29.29
+          - 223.5.5.5
+        # PlayStation \u76F4\u8FDE
+        "+.dl.playstation.net":
+          - 119.29.29.29
+          - 223.5.5.5
+        "+.geosite:cn":
           - 119.29.29.29
           - 223.5.5.5
       proxy-server-nameserver:
         - 119.29.29.29
-        - 223.5.5.5;
-    `
+        - 223.5.5.5
+      fake-ip-filter:
+        - '+.lan'
+        - '+.msftconnecttest.com'
+        - 'msftconnecttest.com'
+        - '+.msftncsi.com'
+        - 'msftncsi.com'
+        - '+.steamserver.net'
+    `;
