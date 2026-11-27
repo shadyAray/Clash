@@ -17,9 +17,6 @@ DOMAIN,cdn5.epicgames.com
 DOMAIN,epicgames-download1.akamaized.net
 DOMAIN,launcher-public-service-prod06.ol.epicgames.com
 
-# Steam
-DOMAIN-SUFFIX,steamserver.net
-
 # SteamCN
 DOMAIN,csgo.wmsj.cn
 DOMAIN,dl.steam.clngaa.com
