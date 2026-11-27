@@ -1,23 +1,7 @@
 # 游戏平台直连域名
 
-# Epic
-DOMAIN-SUFFIX,epicgames.com
-DOMAIN-SUFFIX,epicgamescdn.com
-DOMAIN-SUFFIX,epicgames.dev
-DOMAIN-SUFFIX,unrealengine.com
-DOMAIN-SUFFIX,easyanticheat.net
-
-# Epic CDN 下载域名
-DOMAIN,download.epicgames.com
-DOMAIN,cdn1.epicgames.com
-DOMAIN,cdn2.epicgames.com
-DOMAIN,cdn3.epicgames.com
-DOMAIN,cdn4.epicgames.com
-DOMAIN,cdn5.epicgames.com
-DOMAIN,epicgames-download1.akamaized.net
-DOMAIN,launcher-public-service-prod06.ol.epicgames.com
-
 # SteamCN
+DOMAIN-SUFFIX,steamserver.net
 DOMAIN,csgo.wmsj.cn
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,dl.steam.ksyna.com
@@ -40,6 +24,23 @@ DOMAIN,cdn-ali.content.steamchina.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN,lv.queniujq.cn
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
+
+# Epic
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,epicgamescdn.com
+DOMAIN-SUFFIX,epicgames.dev
+DOMAIN-SUFFIX,unrealengine.com
+DOMAIN-SUFFIX,easyanticheat.net
+
+# Epic CDN 下载域名
+DOMAIN,download.epicgames.com
+DOMAIN,cdn1.epicgames.com
+DOMAIN,cdn2.epicgames.com
+DOMAIN,cdn3.epicgames.com
+DOMAIN,cdn4.epicgames.com
+DOMAIN,cdn5.epicgames.com
+DOMAIN,epicgames-download1.akamaized.net
+DOMAIN,launcher-public-service-prod06.ol.epicgames.com
 
 # Xbox 大陆下载域名
 DOMAIN,assets1.xboxlive.cn
