@@ -1,4 +1,6 @@
 # 代理列表
+#Apple
+DOMAIN-SUFFIX,push.apple.com
 
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
